@@ -30,14 +30,6 @@ This project is a 16-Bit RISC V microprocessor designed in Verilog. The core des
 
 
 
-| Load   | Opcode: 4 bits | Ra: 3 bits      | Rb: 3 bits |                  Offset: 6 bits              |
-|--------|----------------|-----------------|------------|-------------------------|--------------------|
-| R-type | Opcode: 4 bits | Ra: 3 bits      | Rb: 3 bits | Rdest: 3 bits           | Don't care: 3 bits |
-| ADDI   | Opcode: 4 bits | Ra: 3 bits      | Rb: 3 bits |                Immediate Value: 6 bits       |
-| Store  | Opcode: 4 bits | Ra: 3 bits      | Rb: 3 bits |                  Offset: 6 bits              |
-| Branch | Opcode: 4 bits | Ra: 3 bits      | Rb: 3 bits |                  Offset: 6 bits              |
-| Jump   | Opcode: 4 bits |                                                 Offset: 12 bits             |
-
 
 ## Control Signals ##
 
