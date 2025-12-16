@@ -26,7 +26,7 @@ This project is a 16-Bit RISC V microprocessor designed in Verilog. The core des
 
 
 ## Datapath Diagram ( From Computer Organization and Design RISC-V Edition: The Hardware Software Interface by David A. Patterson and John L.Hennessy, Second Edition)
-* ADD<img width="455" height="288" alt="Screenshot 2025-11-12 at 4 42 58 PM" src="https://github.com/user-attachments/assets/beec64bc-2c64-45e6-a85c-22813af48429" />
+<img width="455" height="288" alt="Screenshot 2025-11-12 at 4 42 58 PM" src="https://github.com/user-attachments/assets/beec64bc-2c64-45e6-a85c-22813af48429" />
 
 
 
